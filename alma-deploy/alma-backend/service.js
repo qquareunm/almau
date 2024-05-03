@@ -4,7 +4,7 @@ const { Pool } = pg;
 
 const pool = new Pool({
     user: 'almadb_user',
-    host: 'dpg-colkd521hbls7390eh8g-a.frankfurt-postgres.render.com',
+    host: 'dpg-coqb9of79t8c738dhn90-a.oregon-postgres.render.com/almadb_8e9g',
     database: 'almadb',
     password: 'qdjbOQ9NJtmQoD2bLswDAL6TCqaBuYkS',
     port: 5432,
